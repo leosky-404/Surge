@@ -11,8 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@napi-rs/canvas": "^0.1.44",
+    "axios": "^1.5.1",
     "brawlstats": "^3.2.0",
     "discord.js": "^14.13.0",
+    "emoji-regex": "^10.2.1",
     "mongoose": "^7.5.4",
     "node-cache": "^5.1.2"
   }
