@@ -12,6 +12,7 @@ const client = new Client({
 });
 
 const { connectToDatabase } = require('./utils');
+require('./deploy-commands');
 
 client.commands = new Collection();
 module.exports = { client };
